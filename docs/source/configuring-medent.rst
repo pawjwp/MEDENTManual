@@ -1,9 +1,10 @@
-==================
+******************
 Configuring MEDENT
-==================
+******************
 
 Change Display Settings
------------------------
+=======================
+
 #. **Click** the ☰ icon in the top right
 #. **Select** *Settings*, then *My Preferences*, then *Display/PC Settings*
 #. From this menu, you can select your preferred color scheme, font size, and other settings
@@ -11,7 +12,7 @@ Change Display Settings
    .. image:: images/medent-display-settings.png
 
 Colorblind Configuration
-^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------
 
 #. To configure colorblind options, **select** *Other Options* at the bottom of the previous menu, then *Colorblind Configuration*
 
@@ -28,15 +29,18 @@ Colorblind Configuration
 
 
 Session Management
-------------------
+==================
+
 Creating Multiple Sessions
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------
+
 #. **Click** the ☰ icon in the top right
 #. Click *New Session*
 #. This can be repeated multiple times to have 
 
 Arranging and Resizing Sessions
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
+
 #. **Click** the ☰ icon in the top right
 #. **Click** *Arrange sessions*
 #. If using multiple monitors, **select** if you want to position sessions on the current monitor or all monitors
@@ -51,29 +55,33 @@ Arranging and Resizing Sessions
    g. *Tile* sizes and arranges the windows in columns and rows
 
 Sidebar Options
----------------
+===============
+
 Place content here.
 
 Chart Central Configuration
----------------------------
+===========================
+
 Chart Central has two view settings, which can be switched between using the *Switch Views* button at the top of the screen
 
 Admin View
-^^^^^^^^^^
+----------
 
 .. image:: images/chart-central-admin.png
 
 Note View
-^^^^^^^^^
+---------
 
 .. image:: images/chart-central-note.png
 
 Configure Views
-^^^^^^^^^^^^^^^
+---------------
+
 The views can be configured by clicking the gear icon in the top right
 
 DESCRIPTION, or reference general
 
 Background Spell Check
-----------------------
+======================
+
 Place content here.
