@@ -26,7 +26,7 @@ Patient Lookup
 ^^^^^^^^^^^^^^
 Many of the main menu options will bring you to a patient lookup screen.
 
-   .. image:: images/patient-lookup-transparent.png
+.. image:: images/patient-lookup-transparent.png
 
 From here, information can be entered to look up specific patients. 
 

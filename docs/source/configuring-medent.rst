@@ -43,11 +43,17 @@ Arranging and Resizing Sessions
 #. There will now be a number of options to arrange sessions
 
    #. *Make same size* sets all windows to the size of the current window
+   
    #. *Gather windows* moves all windows to the location of the current window
+   
    #. *Maximize all* sets all windows to fill the screen
+   
    #. *Cascade* arranges all windows in a stack, with each slightly offset from the last
+   
    #. *Horizontal stack* sizes and arranges the windows on top of one another in columns
-   #. *Vertical stack *sizes and arranges the windows on top of one another in rows
+   
+   #. *Vertical stack* sizes and arranges the windows on top of one another in rows
+   
    #. *Tile* sizes and arranges the windows in columns and rows
 
 Sidebar Options
@@ -61,12 +67,12 @@ Chart Central has two view settings, which can be switched between using the *Sw
 Admin View
 ^^^^^^^^^^
 
-   .. image:: images/chart-central-admin.png
+.. image:: images/chart-central-admin.png
 
 Note View
 ^^^^^^^^^
 
-   .. image:: images/chart-central-note.png
+.. image:: images/chart-central-note.png
 
 Configure Views
 ^^^^^^^^^^^^^^^
