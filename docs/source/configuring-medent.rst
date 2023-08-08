@@ -7,31 +7,36 @@ Change Display Settings
 #. **Click** the ☰ icon in the top right
 #. **Select** *Settings*, then *My Preferences*, then *Display/PC Settings*
 #. From this menu, you can select your preferred color scheme, font size, and other settings
+
 .. image:: images/medent-display-settings.png
 
-### Colorblind Configuration
+Colorblind Configuration
+^^^^^^^^^^^^^^^^^^^^^^^^
+
 #. To configure colorblind options, **select** *Other Options* at the bottom of the previous menu, then *Colorblind Configuration*
 
-    .. image:: images/other-options-colorblind-configuration.png
+.. image:: images/other-options-colorblind-configuration.png
 
 #. From this menu, you can choose what colors will appear throughout the MEDENT interface (default colors will appear blank)
 
-    .. image:: images/colorblind-configuration.png
+.. image:: images/colorblind-configuration.png
 
 #. To change colors, **select** a color and click *Edit Color* (or double click the color)
 #. From this window, you can choose or create a color to replace the selected one
 
-    .. image:: images/color-picker.png
+.. image:: images/color-picker.png
 
 
 Session Management
 ------------------
-### Creating Multiple Sessions
+Creating Multiple Sessions
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. **Click** the ☰ icon in the top right
 #. Click *New Session*
 #. This can be repeated multiple times to have 
 
-### Arranging and Resizing Sessions
+Arranging and Resizing Sessions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. **Click** the ☰ icon in the top right
 #. **Click** *Arrange sessions*
 #. If using multiple monitors, **select** if you want to position sessions on the current monitor or all monitors
@@ -52,13 +57,16 @@ Chart Central Configuration
 ---------------------------
 Chart Central has two view settings, which can be switched between using the *Switch Views* button at the top of the screen
 
-### Admin View
-    .. image:: images/chart-central-admin.png
+Admin View
+^^^^^^^^^^
+.. image:: images/chart-central-admin.png
 
-### Note View
-    .. image:: images/chart-central-note.png
+Note View
+^^^^^^^^^
+.. image:: images/chart-central-note.png
 
-### Configure Views
+Configure Views
+^^^^^^^^^^^^^^^
 The views can be configured by clicking the gear icon in the top right
 
 DESCRIPTION, or reference general

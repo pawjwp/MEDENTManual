@@ -13,9 +13,11 @@ Add Areas to Chart
 Electronic Superbill
 --------------------
 
-### View Electronic Superbill
+View Electronic Superbill
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-### Superbill Update
+Superbill Update
+^^^^^^^^^^^^^^^^
 
 Add Feather to Chart Central
 ----------------------------
@@ -34,7 +36,8 @@ Master Font Size
 MEDENT Sidebar
 --------------
 
-### Sidebar Options
+Sidebar Options
+^^^^^^^
 
 Menu Button Overview
 --------------------
@@ -96,8 +99,11 @@ Quick Links
 Verifying Insurances
 --------------------
 
-### Update AR Notes and Effective Date
+Update AR Notes and Effective Date
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-### Via Internet
+Via Internet
+^^^^^^^^^^^^
 
-### E-check for Active/Non-Active Insurance
+E-check for Active/Non-Active Insurance
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

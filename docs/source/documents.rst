@@ -10,7 +10,8 @@ Documents
 
 Creating Forms
 --------------
-### Create Form From Master
+Create Form From Master
+^^^^^^^^^^^^^^^^^^^^^^^
 #. From patient documents, **click** *New* at the bottom
 #. **Search** if needed, then **select** the appropriate form
 #. **Click** *Create From Master* in the top left
@@ -24,22 +25,26 @@ Creating Forms
 
 #. **Click** *Close/Exit* at the top to save and close the form
 
-### Treatment and Payment Consent Form
+Treatment and Payment Consent Form
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. Follow the instructions above to [Create Form From Master](#create-form-from-master-14)
 #. On step 2, **type** *CFTP* and **select** *BTMC-CFTP *(*Consent For TX & Self-Pay Elec*)
 #. For the Walk-In Clinic, **select** *BTMC-CFTP2* instead
 
-### Medical Assistance Encounter Consent Form
+Medical Assistance Encounter Consent Form
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. Follow the instructions above to [Create Form From Master](#create-form-from-master-14)
 #. On step 2, **type** *pc-Encount* and **select** *pc-Encount *(*Medical Assistance*)
 
-### Clinical Visit Summary (CVS)
+Clinical Visit Summary (CVS)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. Follow the instructions above to [Create Form From Master](#create-form-from-master-14)
 #. 
 
 Modify Document
 ---------------
-### Mark Document as Error
+Mark Document as Error
+^^^^^^^^^^^^^^^^^^^^^^
 #. From documents page, **select** the checkbox to the left of the document to be marked as error
 #. **Click** the chevron icon (») in the bottom right
 #. **Click** *Error*
@@ -48,7 +53,8 @@ Modify Document
     .. image:: images/mark-error.png
 
 
-### Unmark Document as Error
+Unmark Document as Error
+^^^^^^^^^^^^^^^^^^^^^^^^
 #. From documents page, **click** *—Done In Error—* at the bottom to show errored documents (if the patient has many documents, you will have to scroll all the way to the bottom)
 #. **Select** the checkbox to the left of the document to be unmarked as error
 #. **Click** the chevron icon (») in the bottom right
@@ -57,7 +63,8 @@ Modify Document
 
     .. image:: images/unmark-error.png
 
-### Change Document Details
+Change Document Details
+^^^^^^^^^^^^^^^^^^^^^^^
 #. From documents page, **click** the document with incorrect details
 #. **Click** *Route* at the top of the screen
 #. **Change** document details to their correct values
