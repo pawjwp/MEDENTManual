@@ -16,12 +16,12 @@ Create Form From Master
 #. **Search** if needed, then **select** the appropriate form
 #. **Click** *Create From Master* in the top left
 
-    .. image:: images/create-from-master.png
+   .. image:: images/create-from-master.png
 
 #. **Fill** the form, checking boxes and typing information as needed (some information will be automatically filled)
 #. If the form requires a signature, **click** :signatureText:`*Free Hand: Unsigned*` to add a digital signature, then have the form signed and **click** *Done*
 
-    .. image:: images/digital-signature.png
+   .. image:: images/digital-signature.png
 
 #. **Click** *Close/Exit* at the top to save and close the form
 
@@ -50,7 +50,7 @@ Mark Document as Error
 #. **Click** *Error*
 #. **Click** *Mark as Error* to mark document as error
 
-    .. image:: images/mark-error.png
+   .. image:: images/mark-error.png
 
 
 Unmark Document as Error
@@ -61,7 +61,7 @@ Unmark Document as Error
 #. **Click** *Error*
 #. **Click** *Yes* to unmark document as error
 
-    .. image:: images/unmark-error.png
+   .. image:: images/unmark-error.png
 
 Change Document Details
 ^^^^^^^^^^^^^^^^^^^^^^^
