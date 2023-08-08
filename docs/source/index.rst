@@ -1,22 +1,24 @@
-Welcome to Lumache's documentation!
-===================================
+===================
+BTAMC MEDENT Manual
+===================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Welcome to the BTAMC MEDENT Manual, a guide to the most frequently used parts of MEDENT.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+----------
+Disclaimer
+----------
 
-.. note::
+This manual was created for training purposes only and is subject to change.
 
-   This project is under active development.
+There are areas of MEDENT that can be accessed/navigated in several ways to get to the same place, these “quick tips” will help you get there.
 
-Contents
---------
+Table of Contents
+=================
 
 .. toctree::
+   :maxdepth: 2
 
-   usage
-   api
+   using-the-interface
+   configuring-medent
+   documents
+   uncategorized
