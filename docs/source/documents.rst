@@ -38,7 +38,7 @@ Medical Assistance Encounter Consent Form
 -----------------------------------------
 
 #. Follow the instructions above to :ref:`Create Form From Master`
-#. On step 2, **type** *pc-Encount* and **select** *pc-Encount *(*Medical Assistance*)
+#. On step 2, **type** *pc-Encount* and **select** *pc-Encount* (*Medical Assistance*)
 
 Clinical Visit Summary (CVS)
 ----------------------------
@@ -58,7 +58,6 @@ Mark Document as Error
 #. **Click** *Mark as Error* to mark document as error
 
    .. image:: images/mark-error.png
-
 
 Unmark Document as Error
 ------------------------
