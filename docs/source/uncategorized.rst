@@ -37,7 +37,7 @@ MEDENT Sidebar
 --------------
 
 Sidebar Options
-^^^^^^^
+^^^^^^^^^^^^^^^
 
 Menu Button Overview
 --------------------
