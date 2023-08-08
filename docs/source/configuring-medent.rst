@@ -42,19 +42,13 @@ Arranging and Resizing Sessions
 #. If using multiple monitors, **select** if you want to position sessions on the current monitor or all monitors
 #. There will now be a number of options to arrange sessions
 
-   #. *Make same size* sets all windows to the size of the current window
-   
-   #. *Gather windows* moves all windows to the location of the current window
-   
-   #. *Maximize all* sets all windows to fill the screen
-   
-   #. *Cascade* arranges all windows in a stack, with each slightly offset from the last
-   
-   #. *Horizontal stack* sizes and arranges the windows on top of one another in columns
-   
-   #. *Vertical stack* sizes and arranges the windows on top of one another in rows
-   
-   #. *Tile* sizes and arranges the windows in columns and rows
+   a. *Make same size* sets all windows to the size of the current window
+   b. *Gather windows* moves all windows to the location of the current window
+   c. *Maximize all* sets all windows to fill the screen
+   d. *Cascade* arranges all windows in a stack, with each slightly offset from the last
+   e. *Horizontal stack* sizes and arranges the windows on top of one another in columns
+   f. *Vertical stack* sizes and arranges the windows on top of one another in rows
+   g. *Tile* sizes and arranges the windows in columns and rows
 
 Sidebar Options
 ---------------
