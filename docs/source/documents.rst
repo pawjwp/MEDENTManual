@@ -30,20 +30,20 @@ Create Form From Master
 Treatment and Payment Consent Form
 ----------------------------------
 
-#. Follow the instructions above to :ref:`Create Form From Master`
+#. Follow the instructions above to Create Form From Master
 #. On step 2, **type** *CFTP* and **select** *BTMC-CFTP *(*Consent For TX & Self-Pay Elec*)
 #. For the Walk-In Clinic, **select** *BTMC-CFTP2* instead
 
 Medical Assistance Encounter Consent Form
 -----------------------------------------
 
-#. Follow the instructions above to :ref:`Create Form From Master`
+#. Follow the instructions above to Create Form From Master
 #. On step 2, **type** *pc-Encount* and **select** *pc-Encount* (*Medical Assistance*)
 
 Clinical Visit Summary (CVS)
 ----------------------------
 
-#. Follow the instructions above to :ref:`Create Form From Master`
+#. Follow the instructions above to Create Form From Master
 #. 
 
 Modify Document

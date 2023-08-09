@@ -5,7 +5,7 @@ Configuring MEDENT
 Change Display Settings
 =======================
 
-#. **Click** the ☰ icon in the top right
+#. **Click** the |hamburger| icon in the top right
 #. **Select** *Settings*, then *My Preferences*, then *Display/PC Settings*
 #. From this menu, you can select your preferred color scheme, font size, and other settings
 
@@ -34,14 +34,14 @@ Session Management
 Creating Multiple Sessions
 --------------------------
 
-#. **Click** the ☰ icon in the top right
+#. **Click** the |hamburger| icon in the top right
 #. Click *New Session*
 #. This can be repeated multiple times to have 
 
 Arranging and Resizing Sessions
 -------------------------------
 
-#. **Click** the ☰ icon in the top right
+#. **Click** the |hamburger| icon in the top right
 #. **Click** *Arrange sessions*
 #. If using multiple monitors, **select** if you want to position sessions on the current monitor or all monitors
 #. There will now be a number of options to arrange sessions
@@ -88,3 +88,6 @@ Background Spell Check
 ======================
 
 Place content here.
+
+
+.. |hamburger| image:: images/icons/hamburger.png
