@@ -54,8 +54,11 @@ Arranging and Resizing Sessions
    f. *Vertical stack* sizes and arranges the windows on top of one another in rows
    g. *Tile* sizes and arranges the windows in columns and rows
 
+MEDENT Sidebar
+==============
+
 Sidebar Options
-===============
+---------------
 
 Place content here.
 

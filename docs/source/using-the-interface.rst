@@ -5,23 +5,24 @@ Using the Interface
 Main Menu
 =========
 
-Chart Central
--------------
+Chart Central Page
+------------------
 
 Place content here.
 
-Patient Chart
--------------
+Patient Chart Page
+------------------
 
 Place content here.
 
-Patient Info
-------------
+Patient Info Page
+-----------------
 
 Place content here.
 
-Documents
----------
+Documents Page
+--------------
+
 Place content here.
 
 Common Interfaces

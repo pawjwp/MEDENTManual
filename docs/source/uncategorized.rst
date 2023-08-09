@@ -33,12 +33,6 @@ HIPAA
 Master Font Size
 ================
 
-MEDENT Sidebar
-==============
-
-Sidebar Options
----------------
-
 Menu Button Overview
 ====================
 
