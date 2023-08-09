@@ -3,17 +3,15 @@
    :hidden:
    :caption: Table of Contents:
 
+   index.rst
    using-the-interface
    configuring-medent
    documents
    uncategorized
    
-*******************
-BTAMC MEDENT Manual
-*******************
-
+************
 Introduction
-============
+************
 
 Welcome to the BTAMC MEDENT Manual, a guide to the most frequently used parts of MEDENT.
 
