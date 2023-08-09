@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'BTAMC MEDENT Manual'
-# copyright = '2021, Graziella'
+copyright = '2023, Jeremy Parke'
 author = 'Jeremy Parke'
 
-release = '0.3'
-version = '0.3.0'
+release = '0.4'
+version = '0.4.0'
 
 # -- General configuration
 
