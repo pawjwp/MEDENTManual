@@ -1,9 +1,3 @@
-.. raw:: html
-
-    <style> .signatureText {color: white; background-color: red;} </style>
-
-.. role:: signatureText
-
 *********
 Documents
 *********
@@ -29,7 +23,7 @@ Create Form From Master
    .. image:: images/create-from-master.png
 
 #. **Fill** the form, checking boxes and typing information as needed (some information will be automatically filled)
-#. If the form requires a signature, **click** :signatureText:`*Free Hand: Unsigned*` to add a digital signature, then have the form signed and **click** *Done*
+#. If the form requires a signature, **click** :signatureText:`Free Hand: Unsigned` to add a digital signature, then have the form signed and **click** *Done*
 
    .. image:: images/digital-signature.png
 
