@@ -3,7 +3,6 @@
    :hidden:
    :caption: Table of Contents:
 
-   index
    using-the-interface
    configuring-medent
    documents
