@@ -2,14 +2,6 @@
 Configuring MEDENT
 ******************
 
-Table of Contents
-=================
-
-.. toctree::
-   :maxdepth: 2
-
-   configuring-medent
-
 Change Display Settings
 =======================
 

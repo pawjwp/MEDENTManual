@@ -2,14 +2,6 @@
 Uncategorized
 *************
 
-Table of Contents
-=================
-
-.. toctree::
-   :maxdepth: 2
-
-   uncategorized
-
 Add Areas to Chart
 ==================
 

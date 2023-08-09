@@ -2,14 +2,6 @@
 Using the Interface
 *******************
 
-Table of Contents
-=================
-
-.. toctree::
-   :maxdepth: 2
-
-   using-the-interface
-
 Main Menu
 =========
 
