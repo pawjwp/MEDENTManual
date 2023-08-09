@@ -1,3 +1,6 @@
+.. |hamburger| image:: images/icons/hamburger.png
+               :height: 20px
+
 ******************
 Configuring MEDENT
 ******************
@@ -88,6 +91,3 @@ Background Spell Check
 ======================
 
 Place content here.
-
-
-.. |hamburger| image:: images/icons/hamburger.png

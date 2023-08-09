@@ -1,6 +1,6 @@
-*******************
-BTAMC MEDENT Manual
-*******************
+************
+Introduction
+************
 
 Welcome to the BTAMC MEDENT Manual, a guide to the most frequently used parts of MEDENT.
 

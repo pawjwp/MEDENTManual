@@ -1,3 +1,6 @@
+.. |circledplus| image:: images/icons/circledplus.png
+                 :height: 22px
+
 *************
 Uncategorized
 *************
@@ -25,7 +28,7 @@ Add Feather to Chart Central
 #. From Chart Central, **click** the chevron icon (») in the top right
 #. In the *Completed Progress Note View* category, **click** the drop down box to the right of *Progress note document code selection*
 #. **Type** “.Progress Note”
-#. **Click** the + icon next to *.Progress Note* and *.Progress Note Followup*
+#. **Click** the |circledplus| icon next to *.Progress Note* and *.Progress Note Followup*
 
 HIPAA
 =====
