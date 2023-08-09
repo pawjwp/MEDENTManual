@@ -3,7 +3,7 @@
    :hidden:
    :caption: Table of Contents:
 
-   index.rst
+   index
    using-the-interface
    configuring-medent
    documents
