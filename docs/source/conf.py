@@ -6,8 +6,8 @@ project = 'BTAMC MEDENT Manual'
 copyright = '2023, Jeremy Parke'
 author = 'Jeremy Parke'
 
-release = '0.4'
-version = '0.4.0'
+release = '0.5'
+version = '0.5.0'
 
 # -- General configuration
 

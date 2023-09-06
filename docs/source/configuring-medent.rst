@@ -1,5 +1,8 @@
 .. |hamburger| image:: images/icons/hamburger.png
-               :height: 20px
+   :height: 20px
+   
+.. |gear| image:: images/icons/gear.png
+   :height: 28px
 
 ******************
 Configuring MEDENT
@@ -56,14 +59,23 @@ Arranging and Resizing Sessions
    e. *Horizontal stack* sizes and arranges the windows on top of one another in columns
    f. *Vertical stack* sizes and arranges the windows on top of one another in rows
    g. *Tile* sizes and arranges the windows in columns and rows
+   
+#. MEDENT will remember your session configuration when you exit and reopen it
 
 MEDENT Sidebar
 ==============
 
-Sidebar Options
----------------
+Show/Hide Sidebar
+-----------------
 
-Place content here.
+#. To toggle the sidebar, 
+
+Resizing Sidebar
+----------------
+
+#. **Click** the |gear| icon in the top right
+#. **Click** *Sidebar Options*
+#. **Select** what percentage of the screen the sidebar should take up
 
 Chart Central Configuration
 ===========================

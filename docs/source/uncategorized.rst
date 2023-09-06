@@ -1,5 +1,5 @@
 .. |circledplus| image:: images/icons/circledplus.png
-                 :height: 22px
+   :height: 22px
 
 *************
 Uncategorized
@@ -30,14 +30,10 @@ Add Feather to Chart Central
 #. **Type** “.Progress Note”
 #. **Click** the |circledplus| icon next to *.Progress Note* and *.Progress Note Followup*
 
-HIPAA
-=====
+Add Emergency Contact Information
+=================================
 
-Master Font Size
-================
-
-Menu Button Overview
-====================
+Still to do, see page 84
 
 Move Areas Around/Change Colors
 ===============================
